@@ -1,4 +1,4 @@
-# Emoticon prediction in tweets with Bidirectional LSTM
+# Emoticon prediction in twitter with Bidirectional LSTM
 This project aims to predict the emoticon a user would use for a tweet. We study the sentiment of a sentence and do a multi class classification to assign it an emoticon.
 
 **Datasets-**
