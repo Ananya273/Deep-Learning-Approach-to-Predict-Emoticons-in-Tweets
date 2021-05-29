@@ -1,7 +1,7 @@
 # Emoticon prediction in twitter with Bidirectional LSTM
 This project aims to predict the emoticon a user would use for a tweet. We study the sentiment of a sentence and do a multi class classification to assign it an emoticon.
 
-**Datasets-**
+**Datasets**
 
 * train.csv
   * Unnamed-0- row number
@@ -15,7 +15,7 @@ This project aims to predict the emoticon a user would use for a tweet. We study
   
 * test.csv (same columns as train.csv)
 
-**Exploratory Data Analysis-**
+**Exploratory Data Analysis**
 
   * Used different data visualization techniques to get more insights into the data using Matplotlib and Seaborn packages
   
